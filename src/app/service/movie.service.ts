@@ -9,13 +9,13 @@ export class MovieService {
 
   constructor() { }
 
-  getAllMovies() : Movie[] {
+  getAllMovies(): Movie[] {
     return MOVIES;
   }
 
 
-getMovie(id: string): Movie {
-  return MOVIES.find(movie=> movie.id === id)
-}
+  getMovie(id: string): Movie {
+    return MOVIES.find(movie => movie.id === id)
+  }
 
 }

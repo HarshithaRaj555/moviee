@@ -7,7 +7,8 @@ export const MOVIES: Movie[] = [
      year: 2014,
      title: 'The Imitation game',
      ratings: 5,
-     imageUrl:'https://vinodnarayan.files.wordpress.com/2015/05/the-imitation-game-final-poster.jpg'
+     imageUrl:'https://vinodnarayan.files.wordpress.com/2015/05/the-imitation-game-final-poster.jpg',
+     videoUrl:'https://www.youtube.com/embed/nuPZUUED5uk'
     },
   
     
@@ -16,7 +17,8 @@ export const MOVIES: Movie[] = [
  year: 2013,
  title: 'Beautiful Creatures',
    ratings: 4,
-   imageUrl:'https://i.pinimg.com/originals/90/02/2c/90022cf4b03fb6773ba4287eeadfbd2b.jpg'
+   imageUrl:'https://i.pinimg.com/originals/90/02/2c/90022cf4b03fb6773ba4287eeadfbd2b.jpg',
+   videoUrl:'https://www.youtube.com/embed/eLDL5mxgYNY'
  
  },
  {
@@ -24,7 +26,8 @@ export const MOVIES: Movie[] = [
    year: 2013,
    title: 'The Dinosaur Project',
      ratings: 1,
-     imageUrl:'https://cover.box3.net/newsimg/dvdmov/max1355359048-back-cover.jpg'
+     imageUrl:'https://cover.box3.net/newsimg/dvdmov/max1355359048-back-cover.jpg',
+     videoUrl:'https://www.youtube.com/embed/4kYXf4mJ4hw'
  
  },
  {
@@ -32,7 +35,8 @@ export const MOVIES: Movie[] = [
  year: 2012,
      title: 'Wild Tales',
      ratings: 3,
-     imageUrl:'https://localist-images.azureedge.net/photos/301530/original/e2d144fbacf346041f0df677069c48d51c3e660a.jpg'
+     imageUrl:'https://localist-images.azureedge.net/photos/301530/original/e2d144fbacf346041f0df677069c48d51c3e660a.jpg',
+     videoUrl:'https://www.youtube.com/embed/Utq0aDEp084'
   },
  
  

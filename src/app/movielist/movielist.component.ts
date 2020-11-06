@@ -14,8 +14,9 @@ export class MovielistComponent implements OnInit {
     year: 2014,
     title: 'The Imitation game',
     ratings: 5,
-    imageUrl:'https://vinodnarayan.files.wordpress.com/2015/05/the-imitation-game-final-poster.jpg'
-    }
+    imageUrl:'https://vinodnarayan.files.wordpress.com/2015/05/the-imitation-game-final-poster.jpg',
+    videoUrl:'https://www.youtube.com/embed/Utq0aDEp084'
+  }
 
   constructor(private movieservice: MovieService) { }
 

@@ -4,4 +4,5 @@ export interface Movie {
     title: string;
     ratings: number;
     imageUrl: string;
+    videoUrl: string;
 }
