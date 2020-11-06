@@ -1,0 +1,40 @@
+
+
+
+
+.movie {
+    background: white;
+    justify-content: space-between;
+    .image{
+        height: 310px;
+        border: 20px solid plum;
+        width: 350px;
+        
+    }
+
+   
+    .details {
+        font-size: 25px;
+        margin-left: 12px;
+        .title {
+            color: red;
+            font-size: 24px;
+            font-weight: bold;
+            font-style: italic;
+            
+
+        }
+        .year {
+            color:red;
+        }
+        .ratings {
+            color:red;
+        }
+        .id{
+            color:red;
+        }
+        
+    
+    }
+}
+
